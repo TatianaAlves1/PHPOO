@@ -1,0 +1,19 @@
+{
+    "name": "tati/comp",
+    "description": "aulas parça",
+    "autoload": {
+        "psr-4": {
+            "Tati\\Comp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TatianaAlves1",
+            "email": "tatipublisher@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^5.4"
+    }
+}
